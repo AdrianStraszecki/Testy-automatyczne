@@ -1,2 +1,3 @@
 testujemy nauke gita
 od git add do git commit
+od git commit do git push
