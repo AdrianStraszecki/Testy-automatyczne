@@ -1,0 +1,2 @@
+testujemy nauke gita
+od git add do git commit
